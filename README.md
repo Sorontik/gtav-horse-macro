@@ -3,7 +3,7 @@
 BASED ON tuokri's work <https://github.com/tuokri/gtav-horse-macro>
 
 ## Features
-- Random click distribution inside the whole button-rectangle
+- Random click distribution inside the whole button-rectangle \
 	along with randomized click-times and delays, this should make the behaviour 'look' more natural/human and make the script harder to detect (NO GUARANTEES!)
 
 - Random choice with adjustable probability between a glitch-using and a glitch-free variant
@@ -35,11 +35,13 @@ BASED ON tuokri's work <https://github.com/tuokri/gtav-horse-macro>
 	- **Increase bet**
 	- **Place-Bet #2** (the one that starts the race)
 	- **Bet-Again** (which takes you back to the main menu after a race)
+	
 	That's 10 MIDDLE-CLICKS in total!
 	You can left-click, right-click, smash the keyboard between the middle-clicks, as long as the middle-clicks are done on the correct locations in the correct order.
 	After the button locations are recorded, the script will again beep once, for one second.
 	Return to the main screen with the 'rules' button to proceed to the next step.
 	Aborting the recording will result in three fast and short beeps
+	
 5. Press alt+a to start the script while in the main screen with the 'rules' button. If you recorded button locations, the script will now click those locations in order.
 6. To end the racing, press ALT+B.
 7. You are now in waiting state again. You can now
