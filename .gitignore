@@ -1,2 +1,5 @@
 # Compiled scripts.
 *.exe
+
+*.isn
+settings.ini
